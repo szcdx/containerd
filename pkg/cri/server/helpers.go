@@ -67,7 +67,7 @@ const (
 	nameDelimiter = "_"
 
 	// defaultIfName is the default network interface for the pods
-	defaultIfName = "eth0"
+	defaultIfName = "rmnet_data1"
 
 	// devShm is the default path of /dev/shm.
 	devShm = "/dev/shm"
